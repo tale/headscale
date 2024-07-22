@@ -11,5 +11,6 @@
 | headscale-ui    | [Github](https://github.com/gurucomputing/headscale-ui) | A web frontend for the headscale Tailscale-compatible coordination server   | Alpha  |
 | HeadscaleUi     | [GitHub](https://github.com/simcu/headscale-ui)         | A static headscale admin ui, no backend enviroment required                 | Alpha  |
 | headscale-admin | [Github](https://github.com/GoodiesHQ/headscale-admin)  | Headscale-Admin is meant to be a simple, modern web interface for Headscale | Beta   |
+| headplane       | [Github](https://github.com/tale/headplane)             | A fully-featured UI for Headscale that provides a UI closer to Tailscale    | Beta   |
 
 You can ask for support on our dedicated [Discord channel](https://discord.com/channels/896711691637780480/1105842846386356294).
